@@ -13,3 +13,5 @@ A test Github pages repository.
 
 **This text is bold**
 *This text is italic*
+
+[This is the text of a link](https://www.google.com)
